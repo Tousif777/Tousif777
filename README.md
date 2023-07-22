@@ -10,5 +10,4 @@ Say hello to Tousif, a skilled developer from Khulna, Bangladesh. Armed with a B
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Tousif777&theme=dark&_border=false)<br/>
 <br/>
-<br/>
 ![](https://komarev.com/ghpvc/?username=tousif777&color=dc143c)
